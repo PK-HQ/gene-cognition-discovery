@@ -1,4 +1,4 @@
-# Candidate-gene-cognition-discovery-method
+# Gene Cognition Discovery Framework
 
 ## Repository structure:
 1. corranalysis.py - correlation analysis script
