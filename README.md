@@ -6,6 +6,6 @@
 3. outputs/ - output data from correlation analysis of memory and motor function maps (as per paper)
 
 Example
-'''terminal
+'''
 $ python /filePath/corranalysis.py
 '''
