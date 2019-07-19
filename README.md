@@ -11,6 +11,7 @@
 **Example**
 ```terminal
 $ python /filePath/corranalysis.py
+
 Loading input files...
 Extracting Neurosynth data for region of interest (mask)...
 Getting MNI space coordinates
