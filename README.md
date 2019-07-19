@@ -5,6 +5,8 @@
 2. inputs/ - input files for correlation analysis
 3. outputs/ - output data from correlation analysis of memory and motor function maps (as per paper)
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 **Example**
 ```terminal
