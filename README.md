@@ -1,4 +1,4 @@
-# Gene Cognition Discovery Framework
+# Spatial similarity analysis
 
 ## Repository structure:
 1. corranalysis.py - correlation analysis script
